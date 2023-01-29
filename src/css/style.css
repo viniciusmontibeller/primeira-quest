@@ -32,7 +32,6 @@ body{
     margin-top: 2rem;
     display: flex;
     gap: 5rem;
-    /* flex-wrap: wrap; */
 }
 
 .description{
@@ -131,6 +130,3 @@ address .social-media a:hover{
         }
     }
 }
-
-/* .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); } */
